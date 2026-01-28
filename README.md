@@ -13,7 +13,7 @@ Sou estudante de Engenharia de Computação, apaixonado em tecnologia e focado n
 
 ## Projetos 🎯
 
-[GitHub]https://github.com/Caua-Python/Tabela-de-Recursos-Naturais-em-Sqlite3
+[![GitHub]]https://github.com/Caua-Python/Tabela-de-Recursos-Naturais-em-Sqlite3
 
 ## Educação 📚
 Nesse ano de 2026, iniciarei a graduação no curso de Engenharia de Computação pela Faculdade Impacta Tecnologia, além de realizar cursos por fora, disponibilizados pela faculdade e outros orgãos.
