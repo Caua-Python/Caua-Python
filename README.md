@@ -11,6 +11,10 @@ Sou estudante de Engenharia de Computação, apaixonado em tecnologia e focado n
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
+## Projetos 🎯
+
+https://github.com/Caua-Python/Tabela-de-Recursos-Naturais-em-Sqlite3
+
 ## Educação 📚
 Nesse ano de 2026, iniciarei a graduação no curso de Engenharia de Computação pela Faculdade Impacta Tecnologia, além de realizar cursos por fora, disponibilizados pela faculdade e outros orgãos.
 
