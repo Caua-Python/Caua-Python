@@ -15,7 +15,9 @@ Nesse ano de 2026, iniciarei a graduação no curso de Engenharia da Computaçã
 
 ## Certificações e Cursos 📑✅
 **Python** - Aprendendo com a linguagem (online) - Faculdade Impacta Tecnologia
+
 **Visualização de dados com Python** - Faculdade Impacta Tecnologia
+
 **Machine Learning** (Em andamento) - Faculdade Impacta Tecnologia
 
 ## Contato
