@@ -8,7 +8,7 @@ Sou estudante de Engenharia de Computação, apaixonado em tecnologia e focado n
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Seaborn](https://img.shields.io/badge/Seaborn-444876?style=for-the-badge&logo=SciPy&logoColor=white)
-<img src="https://img.shields.io/badge/Machine_Learning-Robot?style=flat&logo=probot&logoColor=white&color=blue" />
+<img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat&logo=Jupyter&logoColor=white" />
 
 ## Educação 📚
 Nesse ano de 2026, iniciarei a graduação no curso de Engenharia da Computação pela Faculdade Impacta Tecnologia, além de realizar cursos por fora, disponibilizados pela faculdade e outros orgãos.
