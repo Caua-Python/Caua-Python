@@ -8,7 +8,7 @@ Sou estudante de Engenharia de Computação, apaixonado em tecnologia e focado n
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Seaborn](https://img.shields.io/badge/Seaborn-444876?style=for-the-badge&logo=SciPy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+<img src="https://img.shields.io/badge/Machine_Learning-Robot?style=flat&logo=probot&logoColor=white&color=blue" />
 
 ## Educação 📚
 Nesse ano de 2026, iniciarei a graduação no curso de Engenharia da Computação pela Faculdade Impacta Tecnologia, além de realizar cursos por fora, disponibilizados pela faculdade e outros orgãos.
@@ -22,5 +22,6 @@ Nesse ano de 2026, iniciarei a graduação no curso de Engenharia da Computaçã
 
 ## Contato
 LinkedIn: https://br.linkedin.com/in/cauadasilva
+
 E-mail: eng.cauasalves@gmail.com
 
