@@ -21,7 +21,7 @@ Nesse ano de 2026, iniciarei a graduação no curso de Engenharia da Computaçã
 
 **Machine Learning** (Em andamento) - Faculdade Impacta Tecnologia
 
-## Contato
+## Contato ✉
 LinkedIn: https://br.linkedin.com/in/cauadasilva
 
 E-mail: eng.cauasalves@gmail.com
