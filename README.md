@@ -13,13 +13,13 @@ Sou estudante de Engenharia de Computação, apaixonado em tecnologia e focado n
 
 ## *Meus Projetos* 🎯
 
-Calculadora Simples --> [![GitHub] (https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Caua-Python/Simple-Calculator)
+Calculadora Simples --> [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Caua-Python/Simple-Calculator)
 
 
-Tabela de Recursos Naturais --> [![GitHub] https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white](https://github.com/Caua-Python/Tabela-de-Recursos-Naturais-em-Sqlite3)
+Tabela de Recursos Naturais --> [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Caua-Python/Tabela-de-Recursos-Naturais-em-Sqlite3)
 
 
-Gráfico de Barra --> [![GitHub] https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white](https://github.com/Caua-Python/Grafico-de-Barra)
+Gráfico de Barra --> [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Caua-Python/Grafico-de-Barra)
 
 ## *Educação* 📚
 
