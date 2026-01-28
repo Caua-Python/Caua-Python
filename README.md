@@ -11,10 +11,11 @@ Sou estudante de Engenharia de Computação, apaixonado em tecnologia e focado n
 ![Seaborn](https://img.shields.io/badge/Seaborn-444876?style=for-the-badge&logo=SciPy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-## Meu objetivo atual
-
 ## Educação
 Nesse ano de 2026, iniciarei a graduação no curso de Engenharia da Computação pela Faculdade Impacta Tecnologia, além de realizar cursos por fora, disponibilizados pela faculdade e outros orgãos.
+
+<img width="403" height="125" alt="impacta" src="https://github.com/user-attachments/assets/eba29b8d-709f-4614-ac5b-3bcadeaeee31" />
+
 
 ## Certificações e Cursos
 
