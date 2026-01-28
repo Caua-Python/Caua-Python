@@ -1,7 +1,7 @@
 # Olá, eu sou o Cauã! 😉
 
 ## 🎓 Quem eu sou?
-Sou estudante de Engenharia de Computação, apaixonado em tecnologia e focado na Lógica de Programação e no Desenvolvimento Back-End. Atualmente, estou construindo uma base sólida em Python, desenvolvendo habilidades em visualização de dados através do **Matplotlib** e do **Seaborn**, manipulação e criação de dados e tabelas no **Sqlite3**, além de estar estudando Machine Learning em Python. Em 2025, obtive formação técnica em Técnico em Informática no Ensino médio integrado ao técnico pela escola Centro Educacional Desafio. Estou em busca da minha primeira oportunidade no ramo da tecnologia e a cada dia estou me aperfeiçoando e me esforçando para estar apto ao mercado de trabalho.
+Sou estudante de Engenharia de Computação, apaixonado em tecnologia e focado na Lógica de Programação e no Desenvolvimento Back-End. Atualmente, estou construindo uma base sólida em Python, desenvolvendo habilidades em visualização de dados através do **Matplotlib** e do **Seaborn**, manipulação e criação de dados e tabelas no **Sqlite3**, além de estar estudando Machine Learning em Python. Em 2025, obtive **formação técnica em Técnico em Informática** no ensino médio integrado ao técnico pela escola Centro Educacional Desafio (**Osasco/SP**). Estou em busca da minha primeira oportunidade no ramo da tecnologia e a cada dia estou me aperfeiçoando e me esforçando para estar apto ao mercado de trabalho.
 
 ## Linguagens e Bibliotecas 🖥️
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
