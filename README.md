@@ -1,7 +1,7 @@
 # Olá, eu sou o Cauã! 😉
 
 ## 🎓 Quem eu sou?
-Sou estudante de Engenharia de Computação, apaixonado em tecnologia e focado na Lógica de Programação e no Desenvolvimento Back-End. Atualmente, estou construindo uma base sólida em Python, desenvolvendo habilidades em visualização de dados através do **Matplotlib** e do **Seaborn**, manipulação e criação de dados e tabelas no **Sqlite3**, além de estar estudando Machine Learning em Python. 
+Sou estudante de Engenharia de Computação, apaixonado em tecnologia e focado na Lógica de Programação e no Desenvolvimento Back-End. Atualmente, estou construindo uma base sólida em Python, desenvolvendo habilidades em visualização de dados através do **Matplotlib** e do **Seaborn**, manipulação e criação de dados e tabelas no **Sqlite3**, além de estar estudando Machine Learning em Python. Em 2025, obtive formação técnica em Técnico em Informática no Ensino médio integrado ao técnico pela escola Centro Educacional Desafio. Estou em busca da minha primeira oportunidade no ramo da tecnologia e a cada dia estou me aperfeiçoando e me esforçando para estar apto ao mercado de trabalho.
 
 ## Linguagens e Bibliotecas 🖥️
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -12,7 +12,7 @@ Sou estudante de Engenharia de Computação, apaixonado em tecnologia e focado n
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ## Educação 📚
-Nesse ano de 2026, iniciarei a graduação no curso de Engenharia da Computação pela Faculdade Impacta Tecnologia, além de realizar cursos por fora, disponibilizados pela faculdade e outros orgãos.
+Nesse ano de 2026, iniciarei a graduação no curso de Engenharia de Computação pela Faculdade Impacta Tecnologia, além de realizar cursos por fora, disponibilizados pela faculdade e outros orgãos.
 
 ## Certificações e Cursos 📑✅
 **Python** - Aprendendo com a linguagem (online) - Faculdade Impacta Tecnologia
