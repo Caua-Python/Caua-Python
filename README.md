@@ -23,19 +23,19 @@ Gráfico de Barra --> [![GitHub](https://img.shields.io/badge/GitHub-181717?styl
 
 ## *Educação* 📚
 
-Nesse ano de 2026, iniciarei a graduação no curso de Ciência da Computação pela Faculdade Impacta Tecnologia, além de realizar cursos por fora, disponibilizados pela faculdade e outros orgãos.
+Nesse ano de 2026, estou realizando a graduação no curso de Ciência da Computação pela Faculdade Impacta Tecnologia, além de realizar cursos por fora, disponibilizados pela faculdade e outros orgãos.
 
 ## *Certificações e Cursos* 📑✅
 **Python** - Aprendendo com a linguagem (online) - Faculdade Impacta Tecnologia
 
 **Visualização de dados com Python** - Faculdade Impacta Tecnologia
 
-**Análise de dados com Python** (Em andamento) - Faculdade Impacta Tecnologia
+**Análise de dados com Python** - Faculdade Impacta Tecnologia
 
 **Machine Learning** (Em andamento) - Faculdade Impacta Tecnologia
 
 ## *Contato* ✉
 LinkedIn: https://br.linkedin.com/in/cauadasilva
 
-E-mail: eng.cauasalves@gmail.com
+E-mail: cauasilva2000alves@gmail.com
 
