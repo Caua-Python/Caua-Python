@@ -10,8 +10,11 @@ Sou estudante de Ciência da Computação, apaixonado em tecnologia e focado na 
 ![Seaborn](https://img.shields.io/badge/Seaborn-444876?style=for-the-badge&logo=SciPy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## *Meus Projetos* 🎯
+
+Controle de Estoque TI --> [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)] (https://github.com/Caua-Python/Controle-de-estoque-ti)
 
 Calculadora Simples --> [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Caua-Python/Simple-Calculator)
 
