@@ -1,7 +1,7 @@
 # **Olá, eu sou o Cauã!** 😉
 
 ## 🎓 *Quem eu sou?*
-Sou estudante de Ciência da Computação, apaixonado em tecnologia e focado na Lógica de Programação e no Desenvolvimento Back-End. Atualmente, estou construindo uma base sólida em Python, desenvolvendo habilidades em visualização de dados através do **Matplotlib** e do **Seaborn**, manipulação e criação de dados e tabelas no **Sqlite3**, além de estar estudando Machine Learning em Python. Em 2025, obtive **formação técnica em Técnico em Informática** no ensino médio integrado ao técnico pela escola Centro Educacional Desafio (**Osasco/SP**). Estou em busca da minha primeira oportunidade no ramo da tecnologia e a cada dia estou me aperfeiçoando e me esforçando para estar apto ao mercado de trabalho.
+Sou estudante de Ciência da Computação, apaixonado em tecnologia e focado na Lógica de Programação e no Desenvolvimento Back-End. Atualmente, estou construindo uma base sólida em Python, desenvolvendo habilidades em análise e visualização de dados através do **Matplotlib** e do **Seaborn**, manipulação e criação de dados e tabelas no **MySQL** e **Sqlite3**, além de estar estudando Machine Learning em Python. Em 2025, obtive **formação técnica em Técnico em Informática** no ensino médio integrado ao técnico pela escola Centro Educacional Desafio (**Osasco/SP**). Estou em busca da minha primeira oportunidade no ramo da tecnologia e a cada dia estou me aperfeiçoando e me esforçando para estar apto ao mercado de trabalho.
 
 ## *Linguagens e Bibliotecas* 🖥️
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -16,13 +16,18 @@ Sou estudante de Ciência da Computação, apaixonado em tecnologia e focado na 
 
 Controle de Estoque TI --> [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Caua-Python/Controle-de-estoque-ti)
 
-Calculadora Simples --> [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Caua-Python/Simple-Calculator)
+
+Locadora de Filmes MySQL--> [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Caua-Python/Projeto-Locadora-de-Filmes-MySQL)
+
+
+Analise-exploratoria-de-dados --> [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Caua-Python/Analise-exploratoria-de-dados)
 
 
 Tabela de Recursos Naturais --> [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Caua-Python/Tabela-de-Recursos-Naturais-em-Sqlite3)
 
 
 Gráfico de Barra --> [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Caua-Python/Grafico-de-Barra)
+
 
 ## *Educação* 📚
 
